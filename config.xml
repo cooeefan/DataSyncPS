@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Setting>
+	<TargetServer>DEVDSACSX001</TargetServer>
+	<TargetDB>VaricentUAT3</TargetDB>
+	<ToolsFolder>\Tools</ToolsFolder>
+	<SQLUploadFileFolder>\Download</SQLUploadFileFolder>
+	<ArchFolder>\Arch</ArchFolder>
+	<LogPath>\LOG</LogPath>
+	<LogWriter>OFF</LogWriter>
+</Setting>
